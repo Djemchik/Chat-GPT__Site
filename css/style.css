@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: lightgray;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  header nav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  section {
+    width: 30%;
+    padding: 20px;
+    background-color: lightyellow;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: lightgray;
+    padding:
+    20px;
+    text-align: center;
+  }
+  
+  form {
+    text-align: left;
+    padding: 20px;
+  }
+  
+  label, input, textarea {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
